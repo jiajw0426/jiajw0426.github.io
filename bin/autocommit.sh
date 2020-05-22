@@ -22,11 +22,15 @@ git commit  . -m"auto commit"
 ##push
 push_github &
 ps -ef | grep push_github
-sleep 30s
+sleep 3s
 if [ -f .pushed ]; then
 	rm -f .pushed
 	notify-send "auto commt 成功!"
 else 
+	PUSHID=`ps -ef | grep push_github  | awk "{print $2}"`
+	if [ -f .pushed ]; then
+		kill -9 $PUSHID
+	fi
     notify-send "auto commt 失败!"
 fi
 
