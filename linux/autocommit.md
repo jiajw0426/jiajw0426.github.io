@@ -1,13 +1,18 @@
+## 自动提交文档到github
+
++通过sshkey的形式访问github
+
+```shell
 #!/bin/bash 
 push_github()
 {
-    cd /home/jiajw/source/jdk-jdk-14-22/note
+    cd ${projectdir}
     git push
     touch .pushed
     
 }
 
-cd /home/jiajw/source/jdk-jdk-14-22/note
+cd ${projectdir}
 git pull
 CHANGE=`git status -s`
 if [ -z "$CHANGE" ]; then
@@ -35,4 +40,9 @@ else
 	fi
     notify-send "auto commt 失败!"
 fi
+```
 
+添加定时人物每小时执行一次
+```shell
+0 * * * * /${path}/autocommit.sh
+``

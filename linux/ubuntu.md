@@ -35,3 +35,4 @@ Categories=Utility;Application;
 创建文件模板
 
 > ~/Templates目录下添加需要模板文件可以了
+
