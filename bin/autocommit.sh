@@ -12,7 +12,7 @@ CHANGE=`git status -s`
 if [ -z "$CHANGE" ]; then
     exit 0  #无变化退出
 fi
-
+git pull
 ##add 新增文件
 git status -s | awk  '{if($1 =="??")  print  $2}' | xargs  -n1 git add
 
