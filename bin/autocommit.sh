@@ -27,7 +27,7 @@ if [ -f .pushed ]; then
 	rm -f .pushed
 	notify-send "auto commt 成功!"
 else 
-	PUSHID=`ps -ef | grep push_github  | awk "{print $2}"`
+	PUSHID=`ps -ef | grep push_github  | grep -v grep|awk "{print $2}"`
 	echo "$PUSHID"
 	if [ -n "$PUSHID" ]; then
 		kill -9 $PUSHID
