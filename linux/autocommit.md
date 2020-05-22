@@ -42,7 +42,7 @@ else
 fi
 ```
 
-添加定时人物每小时执行一次
+添加crontab定时任务每小时执行一次
 ```shell
 0 * * * * /${path}/autocommit.sh
 ``
