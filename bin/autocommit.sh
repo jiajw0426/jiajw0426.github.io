@@ -1,9 +1,10 @@
 #!/bin/bash 
-push()
+push_github()
 {
     cd /home/jiajw/source/jdk-jdk-14-22/note
     git push
     touch .pushed
+    
 }
 
 cd /home/jiajw/source/jdk-jdk-14-22/note
@@ -19,17 +20,13 @@ git status -s | awk  '{if($1 =="??")  print  $2}' | xargs  -n1 git add
 git commit  . -m"auto commit"
 
 ##push
-push &
-echo $?
-sleep 20000
+push_github &
+ps -ef | grep push_github
+sleep 30s
 if [ -f .pushed ]; then
 	rm -f .pushed
 	notify-send "auto commt 成功!"
 else 
     notify-send "auto commt 失败!"
 fi
-RESULT=$?
-if [ "$RESULT" ne "0"]; then
 
-	#statements
-fi
