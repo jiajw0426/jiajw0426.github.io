@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
   <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 </head>
 <body>
@@ -15,12 +16,13 @@
     var num = 0;
     mermaid.initialize({ startOnLoad: false });
     window.$docsify = {
-       loadSidebar: true,
+         loadSidebar: true,
+      loadNavbar: true,
+      mergeNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
        coverpage:true,
-       name: '',
        repo: '',
-
-
     // complete configuration parameters
     search: {
       maxAge: 86400000, // Expiration time, the default one day
@@ -29,6 +31,7 @@
 
       // Localization
       placeholder:  '搜索',
+      
 
 
       noData: '没结果!',
@@ -54,7 +57,22 @@
           return this.origin.code.apply(this, arguments);
         }
       }
-      }
+      },
+  plugins: [
+    function(hook) {
+      var footer = [
+        '<hr/>',
+        '<footer>',
+        '<span style="margin:10px"><a href="https://docsify.js.org/" target="_blank">Docsify</a></span>',
+        '<span><a href="https://mermaid-js.github.io/mermaid" target="_blank">Mermaid</a></span>',
+        '</footer>'
+      ].join('');
+
+      hook.afterEach(function(html) {
+        return html + footer;
+      });
+    }
+  ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
