@@ -22,7 +22,7 @@ git commit  . -m"auto commit"
 ##push
 push_github &
 ps -ef | grep push_github
-sleep 3s
+sleep  2m
 if [ -f .pushed ]; then
 	rm -f .pushed
 	notify-send "auto commt 成功!"
