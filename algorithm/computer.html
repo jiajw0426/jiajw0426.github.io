@@ -113,9 +113,13 @@
         }
       }
 
-      document.getElementById("array1").value = array1.join("+") + "=" + sum1
+      document.getElementById("array1").value = array1.sort(function(a,b){
+         return parseInt(a)>parseInt(b)?1:-1;
+      }).join("+") + "=" + sum1
 
-      document.getElementById("array2").value = array2.join("+") + "=" + sum2
+      document.getElementById("array2").value = array2.sort(function(a,b){
+         return parseInt(a)>parseInt(b)?1:-1;
+      }).join("+") + "=" + sum2
     }
   </script>
   <form name="from">
