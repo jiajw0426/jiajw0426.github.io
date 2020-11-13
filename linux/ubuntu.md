@@ -36,3 +36,7 @@ Categories=Utility;Application;
 
 > ~/Templates目录下添加需要模板文件可以了
 
+如果安装多个终端的化可以使用如下命令切换，默认终端
+```bash
+sudo update-alternatives --config x-terminal-emulator
+```
