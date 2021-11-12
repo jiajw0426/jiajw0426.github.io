@@ -15,7 +15,7 @@ if [ -z "$CHANGE" ]; then
 fi
 
 ##add 新增文件
-git status -s | awk  '{if($1 =="??" && $1 != ".history/")  print  $2}' | xargs  -n1 git add
+ git status -s | awk  '{if($1 =="??" && ($2 != ".pushed" && $2 != ".history/")) print  $2}'| xargs  -n1 git add
 
 ##commit 
 git commit  . -m"auto commit"
