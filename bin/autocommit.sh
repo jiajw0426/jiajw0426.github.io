@@ -14,7 +14,7 @@ if [ -z "$CHANGE" ]; then
     exit 0  #无变化退出
 fi
 
-##add 新增文件
+##add 新增文件 不提交history和pushed
  git status -s | awk  '{if($1 =="??" && ($2 != ".pushed" && $2 != ".history/")) print  $2}'| xargs  -n1 git add
 
 ##commit 
