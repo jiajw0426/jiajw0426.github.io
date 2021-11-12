@@ -3,4 +3,4 @@
 
 ### SpringApplication
 
-以排查上述错误为目的，我们进入SpringApplication的run防范来看看究竟发生了什么。
+以排查上述错误为目的，我们进入SpringApplication的run方法来看看究竟发生了什么。
