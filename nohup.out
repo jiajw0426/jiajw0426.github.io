@@ -1,0 +1,623 @@
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 84: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 98: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 112: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 126: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 140: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 154: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 168: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 182: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 196: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 210: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 224: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 238: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 252: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 266: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 280: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 294: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 308: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 322: invalid attribute 'compare'
+Fontconfig warning: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 670: unknown element "blank"
+Fontconfig error: Cannot load config file from /usr/local/HDPClient/LinuxClient/fonts.conf
+log4cplus:ERROR No appenders could be found for logger (root).
+log4cplus:ERROR Please initialize the log4cplus system properly.
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 84: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 98: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 112: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 126: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 140: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 154: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 168: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 182: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 196: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 210: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 224: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 238: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 252: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 266: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 280: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 294: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 308: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 322: invalid attribute 'compare'
+Fontconfig warning: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 670: unknown element "blank"
+Fontconfig error: Cannot load config file from /usr/local/HDPClient/LinuxClient/fonts.conf
+log4cplus:ERROR No appenders could be found for logger (root).
+log4cplus:ERROR Please initialize the log4cplus system properly.
+log4cplus:ERROR Unable to open file: /var/log/hdplog/cloudclientlog/cloudclient-1002866_20211116091537.log
+"1.6.50006.0" 
+[ERROR] Failed to open file:  "/config/.config/cloudurl" 
+[ERROR] Failed to open file:  "/root/.cloud/cloudurl" 
+QLayout: Attempting to add QLayout "" to BrowserMainWindow "", which already has a layout
+mount: 只有 root 用户能使用“--options”选项
+cp: 无法获取'/usr/local/HDPClient/LinuxClient/cloudclient.startup' 的文件状态(stat): 没有那个文件或目录
+col[ 1 ] "https://10.0.112.6" , statusColor= "80" 
+[Default] try to load : "https://10.0.112.6" 
+libpng warning: iCCP: known incorrect sRGB profile
+Certs check ok. 
+Certs check ok. 
+Certs check ok. 
+Certs check ok. 
+Certs check ok. 
+Certs check ok. 
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+mount: 只有 root 用户能使用“--options”选项
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 84: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 98: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 112: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 126: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 140: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 154: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 168: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 182: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 196: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 210: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 224: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 238: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 252: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 266: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 280: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 294: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 308: invalid attribute 'compare'
+Fontconfig error: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 322: invalid attribute 'compare'
+Fontconfig warning: "/usr/local/HDPClient/LinuxClient/fonts.conf", line 670: unknown element "blank"
+Fontconfig error: Cannot load config file from /usr/local/HDPClient/LinuxClient/fonts.conf
+log4cplus:ERROR Unable to open file: /var/log/hdplog/clientlog/client-1002920-sfitcloud.com.YC00153_20211116091545.log
+[ERROR] Failed to open file:  "/config/.config/cloudurl" 
+[ERROR] Failed to open file:  "/root/.cloud/cloudurl" 
+Unknown property style
+Unknown property style
+Unknown property style
+Unknown property style
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+QMetaObject::connectSlotsByName: No matching signal for on_chkEnableSignal()
+QMetaObject::connectSlotsByName: No matching signal for on_chkVMWareSignal()
+QMetaObject::connectSlotsByName: No matching signal for on_chkUsbPolicySignal()
+QMetaObject::connectSlotsByName: No matching signal for on_UpdateClientList(std::vector<USB_CLIENT_LIST>)
+QMetaObject::connectSlotsByName: No matching signal for on_WaitMutex()
+QMetaObject::connectSlotsByName: No matching signal for on_WaitMutexFinish()
+QMetaObject::connectSlotsByName: No matching signal for on_chkNoDriverSlots()
+QMetaObject::connectSlotsByName: No matching signal for on_usbSearchBut_refreshui_slot()
+QMetaObject::connectSlotsByName: No matching signal for on_toolButtonWindow_clicked()
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+ALSA lib conf.c:3722:(snd_config_hooks_call) Cannot open shared library libasound_module_conf_pulse.so (/usr/lib/i386-linux-gnu/alsa-lib/libasound_module_conf_pulse.so: libasound_module_conf_pulse.so: 无法打开共享对象文件: 没有那个文件或目录)
+ALSA lib pcm.c:2642:(snd_pcm_open_noupdate) Unknown PCM default
+[libprotobuf ERROR google/protobuf/message_lite.cc:121] Can't parse message of type "MobileDevice.SessionStateChange" because it is missing required fields: (cannot determine missing fields for lite message)
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+[libprotobuf ERROR google/protobuf/message_lite.cc:121] Can't parse message of type "MobileDevice.SessionStateChange" because it is missing required fields: (cannot determine missing fields for lite message)
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+[libprotobuf ERROR google/protobuf/message_lite.cc:121] Can't parse message of type "MobileDevice.SessionStateChange" because it is missing required fields: (cannot determine missing fields for lite message)
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+[libprotobuf ERROR google/protobuf/message_lite.cc:121] Can't parse message of type "MobileDevice.SessionStateChange" because it is missing required fields: (cannot determine missing fields for lite message)
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+[libprotobuf ERROR google/protobuf/message_lite.cc:121] Can't parse message of type "MobileDevice.SessionStateChange" because it is missing required fields: (cannot determine missing fields for lite message)
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+libpng warning: iCCP: known incorrect sRGB profile
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
+QSharedMemory::lock: already locked
