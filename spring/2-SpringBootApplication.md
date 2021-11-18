@@ -4,3 +4,8 @@
 ### SpringApplication
 
 以排查上述错误为目的，进入SpringApplication的run方法来看看究竟发生了什么。
+
+
+## SpringFactories加载
+
+加载classpath下的所有META-INF/spring.factories文件中的配置，
